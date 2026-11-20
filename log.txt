@@ -1,0 +1,4 @@
+System Started
+User Logged In
+Error Occurred
+System Shutdown

@@ -1,4 +1,4 @@
-# Lab Exercise 3 : Frequency Counter using Dictionaries
+# Lab Exercise 3 :  using DictionarieFrequency Counters
 text = input("Enter a string: ")
 
 frequency = {}
