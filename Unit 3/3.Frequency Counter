@@ -1,0 +1,15 @@
+# Lab Exercise 3 : Frequency Counter using Dictionaries
+text = input("Enter a string: ")
+
+frequency = {}
+
+for char in text:
+    if char in frequency:
+        frequency[char] += 1
+    else:
+        frequency[char] = 1
+
+print("\nCharacter Frequency:")
+
+for key, value in frequency.items():
+    print(key, ":", value)
